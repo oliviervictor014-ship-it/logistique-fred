@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "logistique-fred",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "df32b833-9606-4ae5-ad1e-24db42adc01e",
+			"database_name": "logistique-fred2026"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
